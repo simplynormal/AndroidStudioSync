@@ -1,0 +1,7 @@
+<keymap version="1" name="VSCode (macOS) copy" parent="VSCode OSX">
+  <action id="CodeCompletion">
+    <keyboard-shortcut first-keystroke="ctrl space" />
+    <keyboard-shortcut first-keystroke="meta i" />
+  </action>
+  <action id="org.intellij.plugins.markdown.ui.actions.styling.ToggleItalicAction" />
+</keymap>
